@@ -1,0 +1,10 @@
+networkx
+osmnx
+pandas
+numpy
+scikit-learn
+matplotlib
+folium
+joblib
+streamlit
+plotly
